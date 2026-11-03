@@ -1,0 +1,4 @@
+interface:
+  display_name: "李先生AI影视全流程Skill"
+  short_description: "逐步确认创作方向，连续执行已定方案，整理总素材库与分集分场素材"
+  default_prompt: "使用 $mr-li-seedance-25，首次安装或本机首次启用先显示完整署名与鸣谢；按当前任务加载必要规则；逐步引导并继承已选方案，按明确范围执行，未指定时默认30秒单段，按需整理总库与分集分场素材。"
