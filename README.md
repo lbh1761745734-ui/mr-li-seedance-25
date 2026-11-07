@@ -1,5 +1,9 @@
 # 李先生AI影视全流程Skill（mr-li-seedance-25）
 
+![李先生AI影视全流程Skill 封面](assets/cover/cover_zh_16x9.jpg)
+
+**产品说明书 · Manual**：[中文](docs/manual/manual_zh.pdf) · [English](docs/manual/manual_en.pdf) · [日本語](docs/manual/manual_ja.pdf) · [한국어](docs/manual/manual_ko.pdf) · [العربية](docs/manual/manual_ar.pdf) · [Español](docs/manual/manual_es.pdf) · [Français](docs/manual/manual_fr.pdf)
+
 把传统剧组的规矩交给 AI。当前版本 2.4.1。
 
 这个 Skill 用在影视制作的执行期。剧本定稿以后，它带着你一步步往下做：锁定剧本、定风格、做人物和场景的素材、写每一段的视频提示词，再到生成平台上把节点建好，生成完不满意就返工修改。配乐、字幕和包装都不放进生成画面里，留给后期去做。
@@ -22,6 +26,22 @@
 - 《铁甲青春》：湖南教育电视台即将播出
 - 《我在非洲种水稻》：剧集，制作中
 - 也参与了小红书超级作品《房间里住着四个我》（导演 山音）动画部分的创作，以及其他创作者的作品
+
+## 说明书与封面 · Manual & Cover
+
+完整的产品说明书（功能、七步引导、实测演示、真实项目）放在 [docs/manual](docs/manual)，中文为原版，其他语言为翻译版，内容以中文版为准。
+
+| 语言 Language | 说明书 Manual | 封面 Cover |
+|---|---|---|
+| 中文 | [manual_zh.pdf](docs/manual/manual_zh.pdf) | [16:9](assets/cover/cover_zh_16x9.jpg) · [4:3](assets/cover/cover_zh_4x3.jpg) |
+| English | [manual_en.pdf](docs/manual/manual_en.pdf) | [16:9](assets/cover/cover_en_16x9.jpg) · [4:3](assets/cover/cover_en_4x3.jpg) |
+| 日本語 | [manual_ja.pdf](docs/manual/manual_ja.pdf) | [16:9](assets/cover/cover_ja_16x9.jpg) · [4:3](assets/cover/cover_ja_4x3.jpg) |
+| 한국어 | [manual_ko.pdf](docs/manual/manual_ko.pdf) | [16:9](assets/cover/cover_ko_16x9.jpg) · [4:3](assets/cover/cover_ko_4x3.jpg) |
+| العربية | [manual_ar.pdf](docs/manual/manual_ar.pdf) | [16:9](assets/cover/cover_ar_16x9.jpg) · [4:3](assets/cover/cover_ar_4x3.jpg) |
+| Español | [manual_es.pdf](docs/manual/manual_es.pdf) | [16:9](assets/cover/cover_es_16x9.jpg) · [4:3](assets/cover/cover_es_4x3.jpg) |
+| Français | [manual_fr.pdf](docs/manual/manual_fr.pdf) | [16:9](assets/cover/cover_fr_16x9.jpg) · [4:3](assets/cover/cover_fr_4x3.jpg) |
+
+封面中的大卫头像照片：George M. Groutas，CC BY 2.0，经裁切与调色。说明书中的作品画面和证书图片版权归各自作者所有，仅作展示。
 
 ## 关于电影美学知识库
 
